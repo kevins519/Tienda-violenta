@@ -1,5 +1,5 @@
 superadmin | kevinsanchezs | accesorios para jieshuo
-admin | loquendo24 | Andrés Moya
+superadmin | loquendo24 | Andrés Moya
 admin | HectorNahuel04 | Nahuel Choque
 admin | Aplicaciones | Aplicaciones Company 
 admin | sebastianblind | Blind accessibility
